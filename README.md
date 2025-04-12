@@ -131,21 +131,21 @@ diretamente  as notas G1, G2 e  G3. Da mesma forma os atributos com correlções
 Foram realizadas 3 visualizações  por meio do pacote streamlit 
 *gráfico de histogramas,
 *gráfico de barras 
-*mapa de calor 
+*gráfico de dispersão 
 
 No gráfico de histograma procurou-se explorar visualizações de desempenho dos estudando por sexo e por escola para cada nota (G1, G2 ou G3) obtidas ao longo do periodo letivo.
 Esse gráfico no mostra que estudantes da escola Gabriel Pereira possuem notas mais altas que os estudantes da escola Mousinho da Silveira, para ambos os sexos.
 
-Já no gráfico de barra agrupadas procurou-se observar o comportamento do conjunto de notas ao longo do ano em função de outro atributo qualquer escolhido
+Já no gráfico de barra agrupadas procurou-se observar o comportamento do conjunto de notas ao longo do ano em função de outro atributo qualquer escolhido.
 Nessa visualização podemos ver que as notas do sexo feminino são maiores do que as notas dos alunos do sexo masculino. Assim como alunos que mroam na área urbana possuem notas ligeiramente mais altas que alunos que residem na área rural.
 Pode-se observar também que o desempenho dos estudantes é maior se a mãe trabalha na área da saúde ou como professora. Já esse desempenho é destacado apenas quando o pai possui emprego como professor.
 Em todas as visualizações é possível perceber que as notas apresentam uma evolução crescente ao longo do ano sendo a nota G1 a mais baixa e a G3 a nota mais alta para qualqueroutro atributo anallisado em conjunto
 Também é possível visualizar que a intenção de cursar ensino superior (`higher`) está fortemente relacionada ao bom desempenho.
 
-
-Por último, o grafico de mapa de calor como já apresentado aqui
-
-
+Por último, o grafico de dispersão é possível escolher 4 atributos e ver como se correlacionam e tirarmos algumas conclusões
+Quanto maior o tempo semanal de estudo (x) maior tende a ser a nota final-G3 (y)
+Outra cosntatação é que estudantes que possuem mais reprovações anteriores-failures(x) tendem a ter notas mais baixas-G3 (y)
+Outras associações podem ser obtidas e conclusões tiradas dessa combinação
 
 
 
