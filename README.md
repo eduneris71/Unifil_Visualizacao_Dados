@@ -151,11 +151,8 @@ Por último, o grafico de mapa de calor como já apresentado aqui
 
 # Referências Bibliográficas
 Apostila da disciplina de Vis de Dados, UNIFIL, 2025, acesso em 31/03/2025;
-Base de dados de Qualidade de Vinhos, UCI Machine Learning Repository, Disponível em: https://archive.ics.uci.edu/dataset/186/wine+quality , acesso em 31/03/2025.
-Biblioteca DBSCAN, Disponível em: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html acesso em 31/03/2025.
-Biblioteca K-Means,. Disponível em https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html , acesso em 31/03/2025
-Biblioteca Logistic Regression, Disponível em https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression, acesso em 31/03/2025
-Biblioteca Randon Forest Classifier, Disponível em: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier , acesso em 31/03/2025.
-Biblioteca Spectral Clustering, Dispoivel em https://scikit-learn.org/stable/modules/generated/sklearn.cluster.spectral_clustering.html#sklearn.cluster.spectral_clustering acesso em 31/03/2025.
+Base de dados de Performance de estudantes, UCI Machine Learning Repository, Disponível em: https://archive.ics.uci.edu/dataset/320/student+performance, acesso em 31/03/2025.
+Biblioteca Plotly Express, Disponível em: https://plotly.com/python/plotly-express/, acesso em 31/03/2025.
+Biblioteca Streamlit,. Disponível em https://streamlit.io/ , acesso em 31/03/2025
 HAN, Jiawei; KAMBER, Micheline; PEI, Jian. Data Mining: Concepts and Techniques. 3. ed. San Francisco: Morgan Kaufmann, 2011. Disponível em: http://hanj.cs.illinois.edu/bk3/ . Acesso em: 31/03/2025.
 
