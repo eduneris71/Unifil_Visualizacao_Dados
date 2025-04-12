@@ -150,9 +150,13 @@ Outras associações podem ser obtidas e conclusões tiradas dessa combinação
 
 
 # Referências Bibliográficas
-Apostila da disciplina de Vis de Dados, UNIFIL, 2025, acesso em 31/03/2025;
+Apostila da disciplina de Vis de Dados, UNIFIL, 2025, acesso em 31/03/2025.
+
 Base de dados de Performance de estudantes, UCI Machine Learning Repository, Disponível em: https://archive.ics.uci.edu/dataset/320/student+performance, acesso em 31/03/2025.
+
 Biblioteca Plotly Express, Disponível em: https://plotly.com/python/plotly-express/, acesso em 31/03/2025.
-Biblioteca Streamlit,. Disponível em https://streamlit.io/ , acesso em 31/03/2025
+
+Biblioteca Streamlit,. Disponível em https://streamlit.io/ , acesso em 31/03/2025.
+
 HAN, Jiawei; KAMBER, Micheline; PEI, Jian. Data Mining: Concepts and Techniques. 3. ed. San Francisco: Morgan Kaufmann, 2011. Disponível em: http://hanj.cs.illinois.edu/bk3/ . Acesso em: 31/03/2025.
 
